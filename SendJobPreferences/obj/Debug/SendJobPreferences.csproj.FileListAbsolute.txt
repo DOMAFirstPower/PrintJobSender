@@ -1,0 +1,9 @@
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\bin\Debug\SendJobPreferences.exe.config
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\bin\Debug\SendJobPreferences.exe
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\bin\Debug\SendJobPreferences.pdb
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\obj\Debug\SendJobPreferences.csproj.AssemblyReference.cache
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\obj\Debug\SendJobPreferences.Properties.Resources.resources
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\obj\Debug\SendJobPreferences.csproj.GenerateResource.cache
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\obj\Debug\SendJobPreferences.csproj.CoreCompileInputs.cache
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\obj\Debug\SendJobPreferences.exe
+C:\Projetos_DOMA\PrintJob_Sender\PrintJobSender\SendJobPreferences\obj\Debug\SendJobPreferences.pdb
